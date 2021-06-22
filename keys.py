@@ -1,7 +1,5 @@
 lavacakeFinance = '0xfbfae2D489Bb649C7f33d9812b2Dcf17E9bb279C' #lavacake finance
 
-bscScan_key ='AAWJ7SP7C85IHY9QD4AMJEESR5J8RP4W6S'
-
 btcb_pid = 17
 
 btcbToken = '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c'
